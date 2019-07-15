@@ -1,0 +1,22 @@
+<annotation>
+  <folder>C:\Users\craterzone\Desktop\darkflow-master\new_model_data\original images</folder>
+  <filename>BahA_00582_m_36_i_fr_nc_hp_2016_2_e0_nl_o.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sunglasses</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>254</xmin>
+      <ymin>170</ymin>
+      <xmax>343</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

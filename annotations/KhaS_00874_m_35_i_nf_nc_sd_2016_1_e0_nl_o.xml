@@ -1,0 +1,22 @@
+<annotation>
+  <folder>C:\Users\craterzone\Desktop\darkflow-master\new_model_data\original images</folder>
+  <filename>KhaS_00874_m_35_i_nf_nc_sd_2016_1_e0_nl_o.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sunglasses</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>312</xmin>
+      <ymin>136</ymin>
+      <xmax>482</xmax>
+      <ymax>218</ymax>
+    </bndbox>
+  </object>
+</annotation>
